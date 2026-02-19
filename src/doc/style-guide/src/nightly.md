@@ -6,6 +6,16 @@ Style and formatting for nightly-only syntax should be removed from this chapter
 
 There is no guarantee of the stability of this chapter in contrast to the rest of the style guide. Refer to the style team policy for nightly formatting procedure regarding breaking changes to this chapter.
 
+### Attributes on Expressions
+
+*Location: In [Expressions](expressions.md).*
+
+*Tracking issue: [#15701](https://github.com/rust-lang/rust/issues/15701)*
+
+*Feature gate: `stmt_expr_attributes`*
+
+TODO
+
 ### Frontmatter
 
 *Location: Placed before comments and attributes in the [root](index.html).*
